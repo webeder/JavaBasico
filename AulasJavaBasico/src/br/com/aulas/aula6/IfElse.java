@@ -5,6 +5,8 @@
  */
 package br.com.aulas.aula6;
 
+import java.util.Scanner;
+
 /**
  *
  * @author webeder
@@ -12,7 +14,20 @@ package br.com.aulas.aula6;
 public class IfElse {
     
       public static void main(String[] args) {   
+           System.out.println("Digite o valor de 1 ou mais!");
           
+           Scanner sc = new Scanner(System.in);
+           
+           int a = sc.nextInt(); 
+ 
+        // int numero;
+       //   numero = Integer.parseInt(a);
+          
+          if (a==1){
+              System.out.println("Verdadeiro");
+          }else{
+              System.out.println("Falso"); 
+          }
           
       }
     
