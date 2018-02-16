@@ -82,10 +82,7 @@ public class Literal {
                int i = 50;
                System.out.println(strFinal+" x:"+e+" y:"+i);
          }
-  
-  
-  
-    }
+ }
 
 
    
