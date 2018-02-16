@@ -62,7 +62,7 @@ public class ConcatenaString {
                
                  /*
                 * ###########################################
-                * INICIO BLOCO CONCATENAÇÃO COM StringBulfer
+                * INICIO BLOCO CONCATENAÇÃO COM StringBuffer
                 * ###########################################
                 * */
                
